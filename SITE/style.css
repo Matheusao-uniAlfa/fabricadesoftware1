@@ -1,0 +1,6 @@
+.responsive-image {
+    max-width: 600px; /* Defina a largura máxima que você deseja */
+    width: 100%; /* Para que a imagem se ajuste ao contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-bottom: 20px; /* Espaço abaixo da imagem */
+}
